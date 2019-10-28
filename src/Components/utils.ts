@@ -1,0 +1,1 @@
+export const addLeadingZeros = (input: string) => input.length === 1 ? `0${input}` : input
